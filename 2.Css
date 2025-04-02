@@ -1,0 +1,68 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Stencil:opsz,wght@10..72,100..900&display=swap');
+#Chioma{
+    color: blue;
+    color: rgb(200,100,50);
+    color: rgb(0,0,0);
+    color: rgb(255,255,255);
+    color: rgb(100,50,0);
+    /* hexadecimal colors */;
+    color: #b378c9;
+    color: #000000;
+    color: #fff;
+    /* HSL */;
+    color: hsl(30,70,50);
+    /* RGBA */;
+    color: rgba(100,250,200,.8);
+    /* HSLA */;
+    color: hsla(255,100%, 60%,1);
+    background-color: red;
+    background-color: #b4cfde;
+      /* margin/padding */;
+    margin-left: 100px;
+    margin-top:150px;
+    margin:50px,200px,100px,70px;
+    padding-left:100px;
+    padding-top:50px;
+    padding:100px,150px;
+    /* Border/Outline */;
+    border-style:solid;
+    border-style:dotted;
+    border-width:20px;
+    border-color: green;
+    border-right-color: #b378c9;
+    border-bottom-style:solid;
+    border-left: dashed 2px red;
+    border: solid 2px orchid    
+}
+
+
+.text{
+    text-transform: capitalize;
+    text-transform: uppercase;
+    text-transform: lowercase;
+    /* text-align:moves text to different position */;
+    text-align: right;
+    text-align: center;
+    text-align: justify;
+    text-align-last: right;
+    /* Text Decoration; allows us to underline text*/
+    text-decoration-line: underline;
+    text-decoration-line: overline;
+    text-decoration-line: line-through;
+    text-decoration-color: purple;
+    text-decoration-style: wavy;
+    text-decoration-thickness: 5px;
+    text-decoration: none;
+    /* adding space in our text */
+    /* text-indent: 100px;
+    letter-spacing: 10px;
+    word-spacing: 40px;
+    line-height: 50px; */
+    /* Font-family:changes the font type or the font face. */
+    font-family: calibri,impact;
+    font-family: "Big Shoulders Stencil", sans-serif;
+
+    
+
+} 
